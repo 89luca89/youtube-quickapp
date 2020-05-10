@@ -51,7 +51,7 @@ public class MainActivity extends Activity {
         webView.getSettings().setBuiltInZoomControls(true);
         webView.getSettings().setJavaScriptEnabled(true);
         webView.getSettings().setSaveFormData(true);
-        webView.loadUrl("http://m.youtube.com");
+        webView.loadUrl("https://m.youtube.com");
     }
 
     public boolean inCustomView() {
