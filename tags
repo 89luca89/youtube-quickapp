@@ -1,0 +1,69 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+4NT_args	gradlew.bat	/^:4NT_args$/;"	l	line:65	language:DosBatch
+APP_BASE_NAME	gradlew.bat	/^set APP_BASE_NAME=%~n0$/;"	v	line:16	language:DosBatch
+APP_HOME	gradlew.bat	/^set APP_HOME=%DIRNAME%$/;"	v	line:17	language:DosBatch
+CLASSPATH	gradlew.bat	/^set CLASSPATH=%APP_HOME%\\gradle\\wrapper\\gradle-wrapper.jar$/;"	v	line:72	language:DosBatch
+CMD_LINE_ARGS	gradlew.bat	/^set CMD_LINE_ARGS=$/;"	v	line:56	language:DosBatch
+CMD_LINE_ARGS	gradlew.bat	/^set CMD_LINE_ARGS=%*$/;"	v	line:62	language:DosBatch
+CMD_LINE_ARGS	gradlew.bat	/^set CMD_LINE_ARGS=%\$$/;"	v	line:67	language:DosBatch
+DEFAULT_JVM_OPTS	gradlew.bat	/^set DEFAULT_JVM_OPTS=$/;"	v	line:12	language:DosBatch
+DIRNAME	gradlew.bat	/^if "%DIRNAME%" == "" set DIRNAME=.$/;"	v	line:15	language:DosBatch
+DIRNAME	gradlew.bat	/^set DIRNAME=%~dp0$/;"	v	line:14	language:DosBatch
+Getting started	README.md	/^### Getting started$/;"	C	line:3	language:Markdown
+ID_SAVEIMAGE	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    private static final int ID_SAVEIMAGE = 1, ID_VIEWIMAGE = 2,ID_SHAREIMAGE = 3, ID_SAVELINK = 4, ID_SHARELINK = 5;$/;"	f	line:40	language:Java	class:MainActivity	file:	access:private
+ID_SAVELINK	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    private static final int ID_SAVEIMAGE = 1, ID_VIEWIMAGE = 2,ID_SHAREIMAGE = 3, ID_SAVELINK = 4, ID_SHARELINK = 5;$/;"	f	line:40	language:Java	class:MainActivity	file:	access:private
+ID_SHAREIMAGE	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    private static final int ID_SAVEIMAGE = 1, ID_VIEWIMAGE = 2,ID_SHAREIMAGE = 3, ID_SAVELINK = 4, ID_SHARELINK = 5;$/;"	f	line:40	language:Java	class:MainActivity	file:	access:private
+ID_SHARELINK	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    private static final int ID_SAVEIMAGE = 1, ID_VIEWIMAGE = 2,ID_SHAREIMAGE = 3, ID_SAVELINK = 4, ID_SHARELINK = 5;$/;"	f	line:40	language:Java	class:MainActivity	file:	access:private
+ID_VIEWIMAGE	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    private static final int ID_SAVEIMAGE = 1, ID_VIEWIMAGE = 2,ID_SHAREIMAGE = 3, ID_SAVELINK = 4, ID_SHARELINK = 5;$/;"	f	line:40	language:Java	class:MainActivity	file:	access:private
+JAVA_EXE	gradlew.bat	/^set JAVA_EXE=%JAVA_HOME%\/bin\/java.exe$/;"	v	line:36	language:DosBatch
+JAVA_EXE	gradlew.bat	/^set JAVA_EXE=java.exe$/;"	v	line:22	language:DosBatch
+JAVA_HOME	gradlew.bat	/^set JAVA_HOME=%JAVA_HOME:"=%$/;"	v	line:35	language:DosBatch
+MainActivity	app/src/main/java/org/luca89/youtube/MainActivity.java	/^public class MainActivity extends Activity {$/;"	c	line:29	language:Java	inherits:Activity
+Using a local source	README.md	/^### Using a local source$/;"	C	line:23	language:Markdown
+Using a remote source	README.md	/^### Using a remote source$/;"	C	line:7	language:Markdown
+_SKIP	gradlew.bat	/^set _SKIP=2$/;"	v	line:57	language:DosBatch
+customViewCallback	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    private WebChromeClient.CustomViewCallback customViewCallback;$/;"	f	line:32	language:Java	class:MainActivity	file:	access:private
+customViewContainer	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    private FrameLayout customViewContainer;$/;"	f	line:31	language:Java	class:MainActivity	file:	access:private
+die	gradlew	/^die ( ) {$/;"	f	line:22	language:Sh
+end	gradlew.bat	/^:end$/;"	l	line:77	language:DosBatch
+eventListener	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    private EventListener eventListener;$/;"	f	line:38	language:Java	class:MainActivity	file:	access:private
+execute	gradlew.bat	/^:execute$/;"	l	line:69	language:DosBatch
+fail	gradlew.bat	/^:fail$/;"	l	line:81	language:DosBatch
+findJavaFromJavaHome	gradlew.bat	/^:findJavaFromJavaHome$/;"	l	line:34	language:DosBatch
+forceRotated	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    private boolean forceRotated = false;$/;"	f	line:36	language:Java	class:MainActivity	file:	access:private
+getVideoLoadingProgressView	app/src/main/java/org/luca89/youtube/MainActivity.java	/^        public View getVideoLoadingProgressView() {$/;"	m	line:193	language:Java	class:MainActivity.myWebChromeClient	access:public	signature:()
+hideCustomView	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    public void hideCustomView() {$/;"	m	line:75	language:Java	class:MainActivity	access:public	signature:()
+inCustomView	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    public boolean inCustomView() {$/;"	m	line:71	language:Java	class:MainActivity	access:public	signature:()
+init	gradlew.bat	/^:init$/;"	l	line:48	language:DosBatch
+mCustomView	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    private View mCustomView;$/;"	f	line:33	language:Java	class:MainActivity	file:	access:private
+mDefaultVideoPoster	app/src/main/java/org/luca89/youtube/MainActivity.java	/^        private Bitmap mDefaultVideoPoster;$/;"	f	line:155	language:Java	class:MainActivity.myWebChromeClient	file:	access:private
+mVideoProgressView	app/src/main/java/org/luca89/youtube/MainActivity.java	/^        private View mVideoProgressView;$/;"	f	line:156	language:Java	class:MainActivity.myWebChromeClient	file:	access:private
+mWebChromeClient	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    private myWebChromeClient mWebChromeClient;$/;"	f	line:34	language:Java	class:MainActivity	file:	access:private
+mWebViewClient	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    private myWebViewClient mWebViewClient;$/;"	f	line:35	language:Java	class:MainActivity	file:	access:private
+mainEnd	gradlew.bat	/^:mainEnd$/;"	l	line:87	language:DosBatch
+myWebChromeClient	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    class myWebChromeClient extends WebChromeClient {$/;"	c	line:154	language:Java	class:MainActivity	inherits:WebChromeClient	access:default
+myWebViewClient	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    class myWebViewClient extends WebViewClient {$/;"	c	line:229	language:Java	class:MainActivity	inherits:WebViewClient	access:default
+omega	gradlew.bat	/^:omega$/;"	l	line:90	language:DosBatch
+onCreate	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    public void onCreate(Bundle savedInstanceState) {$/;"	m	line:45	language:Java	class:MainActivity	access:public	signature:(Bundle savedInstanceState)
+onCreateContextMenu	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    public void onCreateContextMenu(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo) {$/;"	m	line:117	language:Java	class:MainActivity	access:public	signature:(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo)
+onHideCustomView	app/src/main/java/org/luca89/youtube/MainActivity.java	/^        public void onHideCustomView() {$/;"	m	line:203	language:Java	class:MainActivity.myWebChromeClient	access:public	signature:()
+onKeyDown	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    public boolean onKeyDown(int keyCode, KeyEvent event) {$/;"	m	line:100	language:Java	class:MainActivity	access:public	signature:(int keyCode, KeyEvent event)
+onPause	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    protected void onPause() {$/;"	m	line:80	language:Java	class:MainActivity	access:protected	signature:()
+onResume	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    protected void onResume() {$/;"	m	line:86	language:Java	class:MainActivity	access:protected	signature:()
+onShowCustomView	app/src/main/java/org/luca89/youtube/MainActivity.java	/^        public void onShowCustomView(View view, CustomViewCallback callback) {$/;"	m	line:165	language:Java	class:MainActivity.myWebChromeClient	access:public	signature:(View view, CustomViewCallback callback)
+onShowCustomView	app/src/main/java/org/luca89/youtube/MainActivity.java	/^        public void onShowCustomView(View view, int requestedOrientation, CustomViewCallback callback) {$/;"	m	line:159	language:Java	class:MainActivity.myWebChromeClient	access:public	signature:(View view, int requestedOrientation, CustomViewCallback callback)
+onStop	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    protected void onStop() {$/;"	m	line:92	language:Java	class:MainActivity	access:protected	signature:()
+org.luca89.youtube	app/src/main/java/org/luca89/youtube/MainActivity.java	/^package org.luca89.youtube;$/;"	p	line:1	language:Java
+result	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    private WebView.HitTestResult result;$/;"	f	line:37	language:Java	class:MainActivity	file:	access:private
+setEventListener	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    public void setEventListener(EventListener eventListener) {$/;"	m	line:150	language:Java	class:MainActivity	access:public	signature:(EventListener eventListener)
+shouldOverrideUrlLoading	app/src/main/java/org/luca89/youtube/MainActivity.java	/^        public boolean shouldOverrideUrlLoading(WebView view, String url) {$/;"	m	line:232	language:Java	class:MainActivity.myWebViewClient	access:public	signature:(WebView view, String url)
+splitJvmOpts	gradlew	/^function splitJvmOpts() {$/;"	f	line:158	language:Sh
+warn	gradlew	/^warn ( ) {$/;"	f	line:18	language:Sh
+webView	app/src/main/java/org/luca89/youtube/MainActivity.java	/^    private WebView webView;$/;"	f	line:30	language:Java	class:MainActivity	file:	access:private
+win9xME_args	gradlew.bat	/^:win9xME_args$/;"	l	line:54	language:DosBatch
+win9xME_args_slurp	gradlew.bat	/^:win9xME_args_slurp$/;"	l	line:59	language:DosBatch
